@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.srivatsan177.ecommerce.utils</groupId>
 	<artifactId>utils</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0			.0.1-SNAPSHOT</version>
 	<name>utils</name>
 	<description>common util across services</description>
 	<url/>
@@ -94,14 +94,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
-
-	<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
 
 </project>
